@@ -1,0 +1,15 @@
+{
+  "location": "Vienna",
+  "use_v2h": true,
+  "pv_min": 1,
+  "pv_max": 4000,
+  "bess_min": 1,
+  "bess_max": 4000,
+  "pv_step": 1,
+  "bess_step": 1,
+  "samples": 10,
+  "seed": 10,
+  "pop": 30,
+  "gen": 50,
+  "algo": "smsemoa"
+}
